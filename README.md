@@ -17,7 +17,9 @@ curl https://num-ascii-go.onrender.com/numascii
 
 ## Running locally
 To run the server locally, run localsetup.bat on Downloads:
+
 Download [`localsetup.bat here.`](https://yyf.mubilop.com/file/71cc94fa/localsetup.bat).
+RUN localsetup.bat VIA COMMAND PROMPT/CMD!
 
 
 If you are not using Windows localsetup.bat is NOT GOING TO WORK!
