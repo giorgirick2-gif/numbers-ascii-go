@@ -13,7 +13,7 @@ For ASCII numbers run:
 curl https://num-ascii-go.onrender.com/numascii
 ```
 ## THIS DEMO IS USING localsetup.bat Scroll down for more information about localsetup.bat.
-<img src="./demo.gif" width="400"/>
+<img src="./demo.webp" width="400"/>
 
 ## Running locally
 To run the server locally, run localsetup.bat on Downloads:
