@@ -12,7 +12,7 @@ For ASCII numbers run:
 ```bash
 curl https://num-ascii-go.onrender.com/numascii
 ```
-
+## THIS DEMO IS USING localsetup.bat Scroll down for more information about localsetup.bat.
 <img src="./demo.gif" width="400"/>
 
 ## Running locally
